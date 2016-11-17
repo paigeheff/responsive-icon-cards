@@ -21,10 +21,12 @@ html {
 .card-body h2 {
   font-size: 1.5rem;
   margin-bottom: 0;
+  font-weight: normal;
 }
 
 .card-img img {
   width: 50px;
+  padding-top: .5rem;
 }
 
 .card-body p {
@@ -48,6 +50,11 @@ html {
 
   }
   .card-img {
+    display: inline-block;
+    text-align: left;
+  }
+  .card-body p {
+    display: inline-block;
 
   }
 }
