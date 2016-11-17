@@ -20,6 +20,7 @@ html {
 
 h2 {
   font-size: 1.5rem;
+  margin-bottom: 0;
 }
 
 img {
@@ -38,6 +39,10 @@ p {
     div {
     width: 20rem;
   }
+
+  html {
+
+  }
 }
 
 
@@ -47,10 +52,18 @@ p {
     display: inline-block;
     width: 25%;
   }
+
+  html {
+
+  }
 }
 
 @media only screen and (min-width: 60em) {
   div {
+
+  }
+
+  html {
 
   }
 }
@@ -58,6 +71,10 @@ p {
 @media only screen and (min-width: 90em) {
 
   div {
+
+  }
+
+  html {
 
   }
 }
