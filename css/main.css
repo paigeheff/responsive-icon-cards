@@ -24,22 +24,23 @@ h2 {
 
 img {
   width: 50px;
-  text-align: center;
 }
 
 p {
+  margin: 0;
+}
 
+.img {
+  text-align: center;
 }
 
 @media only screen and (min-width: 25em) {
     div {
     width: 20rem;
   }
+}
 
-  .img {
-    text-align: center;
-  }
-]
+
 
 @media only screen and (min-width: 38em) {
   body {
