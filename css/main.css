@@ -35,6 +35,10 @@ p {
     div {
     width: 20rem;
   }
+
+  .img {
+    text-align: center;
+  }
 ]
 
 @media only screen and (min-width: 38em) {
