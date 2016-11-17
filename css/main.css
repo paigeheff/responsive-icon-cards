@@ -32,19 +32,27 @@ p {
 }
 
 @media only screen and (min-width: 25em) {
-  p {
+    div {
     width: 20rem;
   }
-  img {
-    
-  }
+]
 
 @media only screen and (min-width: 38em) {
   body {
     display: inline-block;
     width: 25%;
   }
+}
 
 @media only screen and (min-width: 60em) {
+  div {
+
+  }
+}
 
 @media only screen and (min-width: 90em) {
+
+  div {
+
+  }
+}
